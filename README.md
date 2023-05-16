@@ -1,7 +1,7 @@
 # Cake Scrapping
 
 ### Technologies used:
-* Python (BeautifulSoup)
+* Python (BeautifulSoup4)
 * HTML
 * CSS  
 ### Description
