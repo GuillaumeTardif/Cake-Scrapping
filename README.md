@@ -18,4 +18,4 @@ Source de l'image: gateau.jpg
 ``` 
 
 
-Project made during the [Développeur Python | Formation Complète 2023](https://www.udemy.com/share/103AtM3@3pn_4dLQlUuPg1Ui7ehhl_EfMszzU-u2sTLfsLOUAtqkAwG27FNgHgztq9_P9gb0/) online course.
+Project made during the [Développeur Python | Formation Complète 2023](https://www.udemy.com/course/developpeur-python-formation-complete/) online course.
